@@ -1,16 +1,43 @@
 
+# Hi, I'm Lucas Andrade Flores
+I'm passionate about bonsai, plants (nature caos), movies, series, books and coffee. I found in development a new passion to study. I started study development in October 2020, through an Udemy course. After that, I felt the need to go deep in javascript and study all of their frameworks. I started my course in Digital House Brasil in fullstack development, learning more about javascript, and new frameworks and languages, such as html, css, node js, sequelize, API REST, DOM, GIT, GitHub and React.
 
-<!--
-**LucasAndFlores/LucasAndFlores** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##
 
-Here are some ideas to get you started:
+### Currently working on: 
+- Project of digital house - Economize mais 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Future projects: 
+- Bonsai API and a React aplication. 
+- Build a backoffice for my wife english school.
+- Coffee API and a React aplication.
+
+##
+
+##### Learned and currently learning more: 
+<div style="display: inline_block">
+<img align="center" alt="Lucas-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+<img align="center" alt="Lucas-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<img align="center" alt="Lucas-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+<img align="center" alt="Lucas-Node" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg">
+<img align="center" alt="Lucas-Node" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg">
+<img align="center" alt="Lucas-Node" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg">
+</div>
+
+##### Future learning:
+<div style="display: inline_block">
+<img align="center" alt="lucas-Ts" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+<img align="center" alt="lucas-React" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+<img align="center" alt="lucas-React" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
+<img align="center" alt="lucas-React" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg">
+</div>
+
+##
+
+<div>
+<img src=https://github-readme-stats.vercel.app/api?username=LucasAndFlores&count_private=true&show_icons=true&theme=outrun height="180em"/>
+<img src=https://github-readme-stats.vercel.app/api/top-langs/?username=LucasAndFlores&hide=ejs&show_icons=true&theme=outrun height="180em"/>
+</div>
+
+
+

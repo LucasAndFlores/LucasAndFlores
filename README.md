@@ -39,5 +39,10 @@ I'm passionate about bonsai, plants (nature caos), movies, series, books and cof
 <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=LucasAndFlores&hide=ejs&show_icons=true&theme=outrun height="180em"/>
 </div>
 
+## 
 
+<div>
+<a href = "mailto:lcs.oliveira93@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/lucas-andrade-b93798ab/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<div>
 

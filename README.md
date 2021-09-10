@@ -14,10 +14,10 @@ I'm passionate about bonsai, plants, movies, series, books, and coffee. I found 
 
 ##
 
-<a href = "https://github.com/LucasAndFlores">
+
 ### Learned and currently learning more: 
 <div style="display: inline_block">
-<img align="center" alt="Lucas-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+<img align="center" alt="Lucas-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" href = "https://github.com/LucasAndFlores">
 <img align="center" alt="Lucas-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 <img align="center" alt="Lucas-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 <img align="center" alt="Lucas-Node" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg">
@@ -32,7 +32,7 @@ I'm passionate about bonsai, plants, movies, series, books, and coffee. I found 
 <img align="center" alt="lucas-React" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
 <img align="center" alt="lucas-React" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg">
 </div>
-</a>
+
 ##
 
 <div>

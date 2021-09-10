@@ -1,6 +1,6 @@
 
 # Hi, I'm Lucas Andrade Flores
-I'm passionate about bonsai, plants (nature caos), movies, series, books and coffee. I found in development a new passion to study. I started study development in October 2020, through an Udemy course. After that, I felt the need to go deep in javascript and study all of their frameworks. I started my course in Digital House Brasil in fullstack development, learning more about javascript, and new frameworks and languages, such as html, css, node js, sequelize, API REST, DOM, GIT, GitHub and React.
+I'm passionate about bonsai, plants, movies, series, books, and coffee. I found in development a new passion to study. I've started studying development in October 2020, through a course offered by Udemy. After that, I felt the need to go deeper in javascript and study all of its frameworks. I started my course in Digital House Brasil in fullstack development, learning more about javascript, and new frameworks and languages, such as html, css, node js, sequelize, API REST, DOM, GIT, GitHub and React..
 
 ##
 
@@ -8,12 +8,13 @@ I'm passionate about bonsai, plants (nature caos), movies, series, books and cof
 - Project of digital house - Economize mais 
 
 ### Future projects: 
-- Bonsai API and a React aplication. 
-- Build a backoffice for my wife english school.
-- Coffee API and a React aplication.
+- Bonsai API and a React application. 
+- Build a backoffice for my wife's English school.
+- Coffee API and a React application.
 
 ##
 
+<a href = "https://github.com/LucasAndFlores">
 ### Learned and currently learning more: 
 <div style="display: inline_block">
 <img align="center" alt="Lucas-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -31,7 +32,7 @@ I'm passionate about bonsai, plants (nature caos), movies, series, books and cof
 <img align="center" alt="lucas-React" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
 <img align="center" alt="lucas-React" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg">
 </div>
-
+</a>
 ##
 
 <div>

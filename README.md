@@ -3,7 +3,7 @@
 I'm passionate about bonsai, plants, movies, series, books, and coffee. I found in development a new passion to study. I've started studying development in October 2020, through a course offered by Udemy. After that, I felt the need to go deeper in javascript and study all of its frameworks. I started my course in Digital House Brasil in fullstack development, learning more about javascript, and new frameworks and languages, such as html, css, node js, sequelize, API REST, DOM, GIT, GitHub and React..
 
 ##
-You can find a deploy test that I did for job application <a href="https://desafiounicadreactapplucas.herokuapp.com/"> here </a>. Backend is builded in node js, <a href="https://github.com/LucasAndFlores/desafioUnicadAPI"> here </a> and front end is builded in React js and you can find <a href="https://github.com/LucasAndFlores/desafioUnicad_reactApp"> here </a>
+You can find a deploy test that I did for a job application <a href="https://desafiounicadreactapplucas.herokuapp.com/"> here </a>. Backend is built in node js, <a href="https://github.com/LucasAndFlores/desafioUnicadAPI"> here </a> and front end is built in React js and you can find it <a href="https://github.com/LucasAndFlores/desafioUnicad_reactApp"> here </a>
 
 ##
 
